@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vchulski&exclude_repo=mlopszoomcamp&show_icons=true&locale=en&layout=compact" alt="vchulski" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vchulski&show_icons=true&locale=en" alt="vchulski" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vchulski&show_icons=true&locale=en&include_all_commits=true" alt="vchulski" /></p>
